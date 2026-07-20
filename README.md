@@ -42,8 +42,6 @@ Aplikasi Kontak ini dikembangkan sebagai bagian dari praktikum Week 4 - Jetpack 
 | **Filter Kategori**<br>*Menyaring kontak berdasarkan<br>label (Favorit, Keluarga,<br>Kerja, dll).* | <img src="screenshots/light_category.jpg" width="300" alt="Light Mode Category"> | <img src="screenshots/dark_category.jpg" width="300" alt="Dark Mode Category"> |
 | **Detail Kontak**<br>*Dialog informasi lengkap<br>menggunakan Custom<br>Composable.* | <img src="screenshots/light_detail.jpg" width="300" alt="Light Mode Detail"> | <img src="screenshots/dark_detail.jpg" width="300" alt="Dark Mode Detail"> |
 
-> **Catatan**: Masukkan gambar screenshot Anda ke dalam folder `screenshots/` di root proyek agar tampil di tabel atas. Penamaan file disarankan: `light_main.jpg`, `dark_main.jpg`, `light_search.jpg`, `dark_search.jpg`, `light_category.jpg`, `dark_category.jpg`, `light_detail.jpg`, dan `dark_detail.jpg`.
-
 ---
 
 ## 🔑 Konsep Kunci (Materi Praktikum)
