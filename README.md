@@ -37,10 +37,12 @@ Aplikasi Kontak ini dikembangkan sebagai bagian dari praktikum Week 4 - Jetpack 
 
 | Fitur | Light Mode | Dark Mode |
 |:---:|:---:|:---:|
-| **Tampilan Utama**<br>*Menampilkan daftar kontak utama dengan Sticky Header (pengelompokan A-Z) dan filter kategori menggunakan LazyRow.* | <img src="screenshots/light_main.jpg" width="250" alt="Light Mode Main"> | <img src="screenshots/dark_main.jpg" width="250" alt="Dark Mode Main"> |
-| **Fitur Pencarian**<br>*Fitur pencarian real-time yang menyaring daftar kontak secara otomatis berdasarkan input nama.* | <img src="screenshots/light_search.jpg" width="250" alt="Light Mode Search"> | <img src="screenshots/dark_search.jpg" width="250" alt="Dark Mode Search"> |
-| **Filter Kategori**<br>*Daftar kontak yang difilter berdasarkan kategori tertentu (misal: Favorit, Keluarga, Kerja) menggunakan Chip.* | <img src="screenshots/light_category.jpg" width="250" alt="Light Mode Category"> | <img src="screenshots/dark_category.jpg" width="250" alt="Dark Mode Category"> |
-| **Detail Kontak**<br>*Dialog informasi lengkap kontak (Custom Composable) yang muncul saat salah satu kontak diklik.* | <img src="screenshots/light_detail.jpg" width="250" alt="Light Mode Detail"> | <img src="screenshots/dark_detail.jpg" width="250" alt="Dark Mode Detail"> |
+| **Tampilan Utama**<br>*Daftar kontak utama dengan<br>Sticky Header (A-Z) dan<br>filter kategori.* | <img src="screenshots/light_main.jpg" width="300" alt="Light Mode Main"> | <img src="screenshots/dark_main.jpg" width="300" alt="Dark Mode Main"> |
+| **Fitur Pencarian**<br>*Pencarian real-time yang<br>menyaring daftar secara<br>otomatis.* | <img src="screenshots/light_search.jpg" width="300" alt="Light Mode Search"> | <img src="screenshots/dark_search.jpg" width="300" alt="Dark Mode Search"> |
+| **Filter Kategori**<br>*Menyaring kontak berdasarkan<br>label (Favorit, Keluarga,<br>Kerja, dll).* | <img src="screenshots/light_category.jpg" width="300" alt="Light Mode Category"> | <img src="screenshots/dark_category.jpg" width="300" alt="Dark Mode Category"> |
+| **Detail Kontak**<br>*Dialog informasi lengkap<br>menggunakan Custom<br>Composable.* | <img src="screenshots/light_detail.jpg" width="300" alt="Light Mode Detail"> | <img src="screenshots/dark_detail.jpg" width="300" alt="Dark Mode Detail"> |
+
+> **Catatan**: Masukkan gambar screenshot Anda ke dalam folder `screenshots/` di root proyek agar tampil di tabel atas. Penamaan file disarankan: `light_main.jpg`, `dark_main.jpg`, `light_search.jpg`, `dark_search.jpg`, `light_category.jpg`, `dark_category.jpg`, `light_detail.jpg`, dan `dark_detail.jpg`.
 
 ---
 
@@ -103,3 +105,5 @@ Week4_AplikasiKontak/
 - **Architecture**: Clean UI-State Management dengan `rememberSaveable` dan `derivedStateOf`.
 
 ---
+
+© 2025 Willy Rafael F S - Praktikum Pemrograman Mobile
