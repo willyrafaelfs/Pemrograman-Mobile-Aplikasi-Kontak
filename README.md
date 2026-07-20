@@ -13,8 +13,9 @@ Proyek ini adalah aplikasi daftar kontak modern yang dibangun menggunakan **Jetp
 - **Nama**: Willy Rafael F. Silalahi
 - **NIM**: 23083000168
 - **Kelas**: 6A2
-- **Instansi**: Universitas Merdeka Malang
 - **Mata Kuliah**: Pemrograman Mobile
+- **Instansi**: Universitas Merdeka Malang
+
 
 ---
 
